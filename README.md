@@ -1,3 +1,4 @@
+![screenshot-2024-10-16-16-14-15-default](https://github.com/user-attachments/assets/b0915771-c5c2-433c-8817-865b71ed4658)
 # Installation instructions
 
 1. Get to your PC and download platform tools from google [here](https://developer.android.com/studio/releases/platform-tools).
